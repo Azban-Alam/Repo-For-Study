@@ -1,3 +1,6 @@
 Hi ! I have created new file . info.txt
 
 commit #2 during squash activity
+
+commit #3 during squash activity
+
